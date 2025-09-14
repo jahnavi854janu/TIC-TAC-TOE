@@ -1,4 +1,4 @@
-#TIC TAC TOE 
+**TIC TAC TOE**
 
 This is my TIC TAC TOE project 
 
